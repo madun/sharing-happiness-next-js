@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-primary {
+    @apply flex -mt-6 ml-1 bg-yellow-secondary rounded-full;
+  }
